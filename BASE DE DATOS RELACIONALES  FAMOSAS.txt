@@ -1,0 +1,80 @@
+BASE DE DATOS RELACIONALES  FAMOSAS
+mysql
+postgres
+sql server
+oracle
+
+
+BASE DE DATOS NO RELACIONALES= no estructuradas 
+mongo db: para guardar datos
+redis: tiene poca estructura pero rapido, se usa para chats
+couch db: base de dato par javascript
+
+MOCKABS
+
+backend= 
+
+(node.js) es java script del lado del servidor
+framework: meteor , express
+framework especial: socket io
+real time, sirve para chats, porque trabaja en tiempo real
+siempre mantiene la conexion.
+
+(ruby): framework
+(pyton): framework Django flacks
+
+(Frameworks: maneras de trabajar mas rapido con los codigos)
+
+
+fronted html modelado de informacion
+
+css3 , aspecto visual
+ framework; stylus
+
+ javascrips programacion de interacccion
+
+ framework jquery (libreria)
+
+
+ 320px ancho de iphone 
+ 400px ancho de samusmg
+
+ diseño elastico, con responsive, puntos de quiebre
+
+
+ ftp: sistema de transferencia de archivos
+
+ hosting barato normal-->
+ te crea una carpeta 
+
+ /public_html/ <---ftp
+
+ SISTEMA DE CONTROL DE VERSIONES
+
+ SVN: subversion , mercurial, tfs , cvs , git
+
+ github: aplicacion web de git
+ un red social de programadores
+ tiene web / app
+mucho mas facil usar git con github
+
+
+
+
+respostiorio de codigos que se guarda en github
+
+ventajas
+
+-multiples versiones del codigo
+-hace cambios delta, solo se suben los los bytes cambiados porque es una base de datos atomico del codigo
+-tiene un historial
+-ramas (branches)
+	-master (github.com) REPOsitorio-lugardonde
+	BASE DE DATOS que se sincroniza PRINCIPAL
+	-master (disco duro) REPO LOCAL(se clona y se trabaja ahi)
+		*MASTER
+		 -	---merge (esuna funcion entre el mastery el experimental)
+		*EXPERIMENTAL
+	-master (servidor.com) repo produccion(es lo que sube a github los cambios)
+
+
